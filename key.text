@@ -1,0 +1,6 @@
+map_api_key
+https://developers.google.com/maps/documentation/geocoding/start
+https://maps.googleapis.com/maps/api/geocode/json?latlng=24.6812168, 46.7380791&key=map_api_key
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=map_api_key
+
+https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Paris&types=geocode&key=map_api_key
